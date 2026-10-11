@@ -1,0 +1,2 @@
+# PracticeJavaScript
+Javascript Frontmentor practice
